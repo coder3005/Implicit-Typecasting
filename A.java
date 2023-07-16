@@ -5,6 +5,6 @@ class A
         
         int a=10;  // 4 Bytes
         double b=a;  // 8 Bytes
-        System.out.print(b);
+        System.out.print(b);               // IN OUTPUT DECIMAL PLACE WILL COME
     }
 }
